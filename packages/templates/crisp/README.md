@@ -1,5 +1,5 @@
 
-# crisp
+# cra-template-crisp
 
 This is the official crisp template for [Create React App](https://github.com/shaikhjavedofficial/crisp/blob/main/packages/templates/crisp/template).
 
