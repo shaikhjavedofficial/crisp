@@ -1,6 +1,6 @@
 # Crisp Template
 # Created using react, parcel, typescript, redux
-![Responsive Full Background Image](https://github.com/shaikhjavedofficial/react-parcel-typescript-app/blob/main/public/assets/crisp_bg.png)
+![Responsive Full Background Image](https://github.com/shaikhjavedofficial/crisp/blob/main/packages/templates/crisp/template/public/assets/crisp_bg.png)
 
 # Setup:
 1. start: npm start
