@@ -3,16 +3,16 @@
 
 This is the official crisp template for [Create React App](https://github.com/shaikhjavedofficial/crisp/blob/main/packages/templates/crisp/template).
 
-To use this template, add `--template cra-crisp` when creating a new app.
+To use this template, add `--template cra-template-crisp` when creating a new app.
 
 For example:
 
 ```sh
-npx create-react-app my-app --template cra-crisp
+npx create-react-app my-app --template cra-template-crisp
 
 # or
 
-yarn create react-app my-app --template cra-crisp
+yarn create react-app my-app --template cra-template-crisp
 ```
 
 For more information, please refer to:
