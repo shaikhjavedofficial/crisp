@@ -17,4 +17,4 @@ yarn create react-app my-app --template cra-crisp
 
 For more information, please refer to:
 
-- [Getting Started](https://github.com/shaikhjavedofficial/crisp/packages/templates/crisp/template/README.md) – How to create a new app.
+- [Getting Started](https://github.com/shaikhjavedofficial/crisp/tree/main/packages/templates/crisp) – How to create a new app.
