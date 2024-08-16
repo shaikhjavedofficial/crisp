@@ -1,0 +1,24 @@
+{
+  "name": "cra-template-crisp",
+  "version": "1.0.0",
+  "keywords": [ "react",
+  "create-react-app",
+  "template",
+  "typescript","redux","parcel","crisp"
+],
+  "author": "Shaikh Javed & Saniya Shaikh",
+  "description": "React parcel Template with typescript and Redux",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaikhjavedofficial/crisp.git",
+    "directory": "packages/templaates/crisp"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
