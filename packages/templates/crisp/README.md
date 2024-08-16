@@ -1,7 +1,7 @@
 
-# cra-template-crisp
+# crisp
 
-This is the official crisp template for [Create React App](https://github.com/shaikhjavedofficial/crisp/packages/templates/crisp).
+This is the official crisp template for [Create React App](https://github.com/shaikhjavedofficial/crisp/blob/main/packages/templates/crisp/template).
 
 To use this template, add `--template crisp` when creating a new app.
 

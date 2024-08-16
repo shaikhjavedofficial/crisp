@@ -14,6 +14,7 @@
     "directory": "packages/templaates/crisp"
   },
   "license": "MIT",
+  "homepage": "https://github.com/shaikhjavedofficial/crisp/blob/main/packages/templates/crisp/template/README.md",
   "engines": {
     "node": ">=18"
   },
